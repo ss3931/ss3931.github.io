@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lifelong learning</title>
+  
+  <subtitle>ying</subtitle>
+  <link href="http://ss3931.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://ss3931.github.io/"/>
+  <updated>2023-02-02T07:48:40.390Z</updated>
+  <id>http://ss3931.github.io/</id>
+  
+  <author>
+    <name>ying</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CVE-2017-18349</title>
+    <link href="http://ss3931.github.io/2023/02/01/fastjson1-2-24rce-fu-xian/"/>
+    <id>http://ss3931.github.io/2023/02/01/fastjson1-2-24rce-fu-xian/</id>
+    <published>2023-02-01T06:32:57.000Z</published>
+    <updated>2023-02-02T07:48:40.390Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;CVE-2017-18349-FastJson-1-2-24-反序列化漏洞RCE&quot;&gt;&lt;a href=&quot;#CVE-2017-18349-FastJson-1-2-24-反序列化漏洞RCE&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CVE-2017-18349</title>
+    <link href="http://ss3931.github.io/2023/02/01/fastjson1-2-24rce-chan-qu-bang/"/>
+    <id>http://ss3931.github.io/2023/02/01/fastjson1-2-24rce-chan-qu-bang/</id>
+    <published>2023-02-01T06:32:57.000Z</published>
+    <updated>2023-02-11T16:25:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;CVE-2017-18349-FastJson-1-2-24-反序列化漏洞RCE&quot;&gt;&lt;a href=&quot;#CVE-2017-18349-FastJson-1-2-24-反序列化漏洞RCE&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="漏洞复现" scheme="http://ss3931.github.io/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+    
+    
+    <category term="漏洞复现" scheme="http://ss3931.github.io/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+    
+    <category term="Java" scheme="http://ss3931.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ss3931.github.io/2023/01/12/hello-world/"/>
+    <id>http://ss3931.github.io/2023/01/12/hello-world/</id>
+    <published>2023-01-12T06:04:40.642Z</published>
+    <updated>2023-01-07T15:41:02.432Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
